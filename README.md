@@ -36,7 +36,7 @@ The app consists of three main pages:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/flutter-learning-app.git
+git clone https://github.com/HyoketsuSenpai/flutter_for_beginners.git
 cd flutter-learning-app
 ```
 
